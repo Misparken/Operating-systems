@@ -1,0 +1,2 @@
+An Operating system is a program that manages the allocation of our computer hardware, it communicates between the user and computer hardware. Example of an operating system is Mysql developer.The operating system allocates memory,devices,processors and information of a harhware.
+Mysql developer is used to manage,monitors, and administer the database with specific string functions or commands.
